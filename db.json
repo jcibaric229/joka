@@ -1,0 +1,58 @@
+{
+  "poruke": [
+    {
+      "id": 1,
+      "sadrzaj": "HTML je jednostavan",
+      "datum": "2019-05-30T17:30:31.098Z",
+      "vazno": false
+    },
+    {
+      "id": 2,
+      "sadrzaj": "React koristi JSX sintaksu",
+      "datum": "2019-05-30T18:39:34.091Z",
+      "vazno": false
+    },
+    {
+      "id": 3,
+      "sadrzaj": "GET i POST su najvaznije metode HTTP protokola",
+      "datum": "2019-05-30T19:20:14.298Z",
+      "vazno": false
+    },
+    {
+      "id": 4,
+      "sadrzaj": "josipa",
+      "datum": "Tue, 27 Jul 2021 11:52:01 GMT",
+      "vazno": true
+    },
+    {
+      "id": 5,
+      "sadrzaj": "Unesi poruku...",
+      "datum": "Tue, 27 Jul 2021 11:53:52 GMT",
+      "vazno": true
+    },
+    {
+      "sadrzaj": "NOVO",
+      "datum": "Tue, 27 Jul 2021 11:54:30 GMT",
+      "vazno": true,
+      "id": 6
+    },
+    {
+      "sadrzaj": "Unesi poruku...1",
+      "datum": "Tue, 27 Jul 2021 11:55:49 GMT",
+      "vazno": true,
+      "id": 7
+    },
+    {
+      "sadrzaj": "banana",
+      "datum": "Tue, 27 Jul 2021 11:57:27 GMT",
+      "vazno": false,
+      "id": 8
+    },
+    {
+      "sadrzaj": "Unesi poruku...s",
+      "datum": "Tue, 27 Jul 2021 11:57:53 GMT",
+      "vazno": false,
+      "id": 9
+    }
+  ]
+}
