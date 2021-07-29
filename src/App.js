@@ -6,7 +6,7 @@ const App = () => {
     const[poruke, postaviPoruke] =useState([])
     const novaPoruka=(e)=>{ //eventhandler poruke kao ulazni argument primaju objekt koji sadrži sve informacije o događaju
         e.preventDefault() //kako nam se ne bi onsite pozvao
-       // console.log("KLik",e.target)
+        console.log("KLik",e.target)
         const noviObjekt = {
             sadrzaj: unosPoruke,
             datum: new Date().toUTCString(),
